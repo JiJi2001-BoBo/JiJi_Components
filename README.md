@@ -1,3 +1,7 @@
+----- Setup Video -----
+
+https://m.facebook.com/story.php?story_fbid=pfbid02aGw1SVsEEzRLRfPhLfZ4DFpqAZkSr29mVdg3cSPCXEypwQmxFuQDh2NH21T7dxypl&id=61556762271736&mibextid=ZbWKwL
+
 ----- JiJi Image Slider -----
 To make the JiJi Image Slider work you need to create a JiJiImageArrayDataSet.
 
